@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2020/06/30" author="e.World Technology Ltd.">
+  <project id="{19DB123B-B1FC-4D8F-A740-307C964DB02C}" file="D:\SPI\Sireli\project1.pmp" name="project1" product="PHPMaker" version="15.0" datetime="2020/06/30 13:36:42" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111">
+    <table id="tb_dosen" name="tb_dosen" caption="Data Dosen" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,0;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_jurusan" name="tb_jurusan" caption="Jurusan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,0;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_penelitian" name="tb_penelitian" caption="Laporan Penelitian" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_penelitian2" name="tb_penelitian2" caption="Status Review" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,0" priv="1" />
+    <table id="tb_penelitian3" name="tb_penelitian3" caption="Hasil Review" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_user" name="tb_user" caption="tb user" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_pengabdian" name="tb_pengabdian" caption="Laporan Pengabdian" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111" priv="1" />
+    <table id="tb_pengabdian2" name="tb_pengabdian2" caption="Status Review" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,0" priv="1" />
+    <table id="tb_pengabdian3" name="tb_pengabdian3" caption="Hasil Review" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;1&quot;,111;2,&quot;2&quot;,111" priv="1" />
+  </project>
+</configuration>
